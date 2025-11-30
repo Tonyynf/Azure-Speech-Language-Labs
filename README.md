@@ -9,9 +9,7 @@ Este repositório reúne minha experiência prática com o Azure Speech Studio e
 - Documentar o processo de forma organizada e clara  
 - Criar um material útil para estudos e futuras implementações  
 
-## Ferramentas Utilizadas
-
-Ferramenta - Uso no Projeto 
+## Ferramenta - Uso no Projeto 
 ---------------------------------
 **Azure Speech Studio** - Conversão fala → texto, análise de entonação, sentimento, insights de áudio 
 **Azure Language Studio** - Análise de texto (sentimento, entidades, classificação) 
